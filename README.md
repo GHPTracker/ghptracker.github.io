@@ -1,5 +1,9 @@
 # ghptracker.github.io
 
+Make sure you update [Your GHP Repo Name] in the code with your Git Hub Pages repo name.
+
+GHPTracker is powered by [DataStax Astra](https://astra.datastax.com).
+
 ## Add Tracker Snippet
 ```js
 <!-- start GHP Listener -->
@@ -30,7 +34,3 @@ document.getElementById("GHP_counter").innerHTML += '<img src="//img.shields.io/
 </script>
 <!-- end GHP Counter -->
 ```
-
-Make sure you update [Your GHP Repo Name] in the code with you Git Hub Pages repo name
-
-ghptracker.site is powered by DataStax Astra
