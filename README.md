@@ -1,4 +1,4 @@
-![GHPTracker](https://avatars.githubusercontent.com/u/78993645?s=200&v=4)
+![GHPTracker](https://avatars.githubusercontent.com/u/78993645?s=200&v=4){:height="100" width="100" style="float: left; padding: 10px"}
 
 # ghptracker.github.io
 
