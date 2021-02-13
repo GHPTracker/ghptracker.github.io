@@ -1,3 +1,5 @@
+![GHPTracker](https://avatars.githubusercontent.com/u/78993645?s=200&v=4)
+
 # ghptracker.github.io
 
 Make sure you update [Your GHP Repo Name] in the code with your Git Hub Pages repo name.
